@@ -1,0 +1,13 @@
+{
+    "name": "romack/nbc",
+    "require": {
+        "fieg/bayes": "^1.0",
+        "keboola/csv": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "Romack Natividad",
+            "email": "romacknatividad@gmail.com"
+        }
+    ]
+}
