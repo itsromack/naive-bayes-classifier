@@ -1,5 +1,5 @@
 {
-    "name": "romack/nbc",
+    "name": "itsromack/naive-bayes-classifier",
     "require": {
         "fieg/bayes": "^1.0",
         "keboola/csv": "^1.1"
