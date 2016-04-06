@@ -1,5 +1,6 @@
 {
     "name": "itsromack/naive-bayes-classifier",
+    "license": "Free",
     "require": {
         "fieg/bayes": "^1.0",
         "keboola/csv": "^1.1"
